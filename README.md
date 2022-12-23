@@ -7,7 +7,7 @@
   <img width="505" height="425" src="https://github.com/Razvan48/Game-Engine-2D/blob/main/Demo/Game Engine 2D Demo.gif">
 </p>
 
-**Controls:** <br/>
+**Controls for the Demo:** <br/>
 
 &emsp; WASD for moving around <br/>
 &emsp; Space for jumping <br/>
