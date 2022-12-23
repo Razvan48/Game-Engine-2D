@@ -4,6 +4,7 @@
 &emsp; Several components are implemented in the engine, such as hitbox, texture box, gravity, animation, input and others. <br/>
 &emsp; Used OOP to a great extend. <br/>
 &emsp; Can be used to build simple 2D games, similar to the Demo. <br/>
+&emsp; All sprites, animations and textures used in the Demo are made from scratch. <br/>
 
 <p align = "center">
   <img width="505" height="425" src="https://github.com/Razvan48/Game-Engine-2D/blob/main/Demo/Game Engine 2D Demo.gif">
