@@ -2,3 +2,5 @@ C:\Users\razvan\Desktop\Informatica\Jocuri Visual Studio\source\repos\2D Game En
 C:\Users\razvan\Desktop\Informatica\Jocuri Visual Studio\source\repos\2D Game Engine\Debug\2D Game Engine.pdb
 C:\Users\razvan\Desktop\2D Game Engine\Debug\2D Game Engine.exe
 C:\Users\razvan\Desktop\2D Game Engine\Debug\2D Game Engine.pdb
+C:\Users\razvan\Documents\GitHub\Game-Engine-2D\Debug\2D Game Engine.exe
+C:\Users\razvan\Documents\GitHub\Game-Engine-2D\Debug\2D Game Engine.pdb

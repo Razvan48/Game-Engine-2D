@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\razvan\Documents\GitHub\Game-Engine-2D\Debug\2D Game Engine.exe</FullPath>
+      <FullPath>C:\Users\razvan\Documents\GitHub\Game-Engine-2D\Release\2D Game Engine.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
